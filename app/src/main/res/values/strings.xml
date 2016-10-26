@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="phone">Phone</string>
+    <string name="sdcard">SD Card</string>
+</resources>
